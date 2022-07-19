@@ -9,3 +9,4 @@ thapatechi/thapatechi is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 Instagram hacking
+Hack for educational pirpuse not do worng work
